@@ -1,5 +1,5 @@
 prompt("what is your name");
-prompt("what is your cruch name");
+prompt("what is your crush name");
 
 var lovescore = Math.random();
 lovescore = lovescore * 100;
